@@ -1,4 +1,32 @@
-DI APLIKASI PARKIR TERSEBUT ADA 3 AKTOR YAITU :
-1.ADMIN DENGAN NAMA:masimo pw 123
-2.PETUGAS DENGAN NAMA:gajah pw 123
-3.OWNER DENGAN NAMA :bilkis pw 123
+🚗 UKK Aplikasi Parkir
+Aplikasi parkir berbasis web yang dibuat sebagai tugas Uji Kompetensi Keahlian (UKK) jurusan Rekayasa Perangkat Lunak.
+Link hosting:https://bilkisukk.infinityfree.me/
+👩‍💻 Teknologi yang Digunakan
+PHP
+MySQL
+MVC (Model View Controller)
+HTML & CSS
+📚 Fitur Aplikasi
+Login sistem
+Manajemen data kendaraan
+Manajemen data pengguna
+Pencatatan kendaraan masuk & keluar
+Perhitungan biaya parkir otomatis
+Hak akses berdasarkan role
+👥 Aktor Sistem
+1. Admin
+Nama: masimo
+Password: 123
+Admin bertugas mengelola seluruh data pada sistem seperti data kendaraan, data pengguna, serta memantau transaksi parkir.
+2. Petugas Parkir
+Nama: gajah
+Password: 123
+Petugas bertugas mencatat kendaraan masuk dan keluar serta mengelola transaksi parkir di lapangan.
+3. Owner
+Nama:bilkis
+Pasword:123
+Owner bertugas memantau laporan parkir, melihat data transaksi, dan mengawasi kinerja sistem tanpa mengubah data secara langsung.
+👤 Pembuat
+Bilkis Auliya Agustin
+XII RPL 2
+SMK SANGKURIANG 1 CIMAHI 
